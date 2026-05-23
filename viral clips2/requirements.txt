@@ -1,0 +1,13 @@
+streamlit
+moviepy
+opencv-python
+yt-dlp
+pytube
+groq
+python-dotenv
+ffmpeg-python
+openai-whisper
+pydub
+numpy
+Pillow
+requests
